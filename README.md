@@ -4,7 +4,7 @@ Here is all the codes I solved in BEECROWD for study in C language.
 Hello there , I hope you are having a wonderful day
 Myself Mohd. Mehedi Hasan Jihad</br>
 A student from [Daffodil Int. University](https://daffodilvarsity.edu.bd/)
-</br> I am actually not quite familiar to this coding world but i still try to crack open an algorithm to solve problems. Sometime I took help from ChatGPT, so shouldn't GPT half of my tuition fees?!</br>
+</br> I am actually not quite familiar to this coding world but i still try to crack open an algorithm to solve problems. Sometime I took help from ChatGPT, so shouldn't GPT half of my tuition fees?! 😂😁</br>
 Jokes aside, it is a self coding workspace for me. But I try to keep track of everything. So I'll try to upload all the codes From Today and onwards.</br>
 </br>
 </br>
