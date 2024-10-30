@@ -17,29 +17,29 @@ But I'll make another directory for .cpp files; hopefully in the upcoming 2 mont
 Here i'll try to list all problem and update 'em frequently
 | ProblemCode | ProblemName | Redirect |
 | :---         |     :---:      |          ---: |
-| 1171   | Number Frequency  | git status    |
-| 1173     | Array Fill I       | git diff      |
-| 1175     | Array Change I       | git diff      |
-| 1176     | Fibonacci Array | git diff      |
-| 1177     | Array Fill II       | git diff      |
-| 1179     | Array Fill IV       | git diff      |
-| 1181     | Line in Array       | git diff      |
-| 1182     |  Collumn in Array      | git diff      |
-| 1183     | Above the main diagonal       | git diff      |
-| 1184     | Below the main diagonal       | git diff      |
-| 1185     | Above the Secondary diagonal       | git diff      |
-| 1186     | Below the Secondary diagonal | git diff      |
-| 1187     | Top Area       | git diff      |
-| 1188     | Inferior Area       | git diff      |
-| 1189     | Left Area       | git diff      |
-| 1190     | Right Area       | git diff      |
-| 1318     | Fake Tickets       | git diff      |
-| 1436     | Brick Game       | git diff      |
-| 1521     | The Guilty       | git diff      |
-| 1533     | Detective Watson       | git diff      |
-| 2167     | Engine Failure       | git diff      |
-| 2534     | General Exam       | git diff      |
-| 2846     | Fibonot       | git diff      |
+| 1171   | Number Frequency  | [📌](FIles/1171.c)  |
+| 1173     | Array Fill I       |  [📌](FIles/1173.c)     |
+| 1175     | Array Change I       | [📌](FIles/1175.c)      |
+| 1176     | Fibonacci Array | [📌](FIles/1176.c)      |
+| 1177     | Array Fill II       | [📌](FIles/1177.c)      |
+| 1179     | Array Fill IV       | [📌](FIles/1179.c)      |
+| 1181     | Line in Array       | [📌](FIles/1181.c)      |
+| 1182     |  Collumn in Array      | [📌](FIles/1182.c)      |
+| 1183     | Above the main diagonal       | [📌](FIles/1183.c)      |
+| 1184     | Below the main diagonal       | [📌](FIles/1184.c)      |
+| 1185     | Above the Secondary diagonal       | [📌](FIles/1185.c)      |
+| 1186     | Below the Secondary diagonal | [📌](FIles/1186.c)      |
+| 1187     | Top Area       | [📌](FIles/1187.c)      |
+| 1188     | Inferior Area       | [📌](FIles/1188.c)      |
+| 1189     | Left Area       | [📌](FIles/1189.c)      |
+| 1190     | Right Area       | [📌](FIles/1190.c)     |
+| 1318     | Fake Tickets       | [📌](FIles/1318.c)      |
+| 1436     | Brick Game       | [📌](FIles/1436.c)      |
+| 1521     | The Guilty       | [📌](FIles/1521.c)      |
+| 1533     | Detective Watson       | [📌](FIles/1533.c)      |
+| 2167     | Engine Failure       | [📌](FIles/2167.c)      |
+| 2534     | General Exam       | [📌](FIles/2534.c)      |
+| 2846     | Fibonot       | [📌](FIles/2846.c)      |
 
 
 </br>
