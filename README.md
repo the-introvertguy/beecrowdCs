@@ -45,5 +45,6 @@ Here i'll try to list all problem and update 'em frequently
 
 
 </br>
-The last update was on **October 30, 2024**. </br>
+The last update was on 1st November.
+ </br>
 Thanks for stopping by!
