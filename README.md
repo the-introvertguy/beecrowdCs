@@ -37,7 +37,9 @@ Here i'll try to list all problem and update 'em frequently
 | 1436     | Brick Game       | [📌](FIles/1436.c)      |
 | 1521     | The Guilty       | [📌](FIles/1521.c)      |
 | 1533     | Detective Watson       | [📌](FIles/1533.c)      |
+| 1715     | Handball       | [📌](FIles/1715.c)      |
 | 2167     | Engine Failure       | [📌](FIles/2167.c)      |
+| 2520     | The Last Analógimôn       | [📌](FIles/2167.c)      |
 | 2534     | General Exam       | [📌](FIles/2534.c)      |
 | 2846     | Fibonot       | [📌](FIles/2846.c)      |
 
